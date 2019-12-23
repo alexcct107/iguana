@@ -1,0 +1,106 @@
+ * {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+	font-family: 'Raleway', sans-serif;
+	background: #000000;
+	color: #FFFFFF;
+
+}
+
+.titulo{
+	background: #000000;
+	text-align: center;
+	color: #FFFFFF;
+	vertical-align: middle;
+	padding: 10px;
+	font-weight: 500;
+
+}
+
+.titulo h1{
+	font-weight: 300;
+  font-size: 50px
+}
+
+.foto {
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.foto img {
+	width: 100%;
+}
+
+
+.informacion{
+		text-align: left;
+white-space: nowrap;
+padding: 72px;
+}
+
+
+.iguana-texto, .iguana-foto {
+	display: inline-block;
+}
+
+.iguana-foto{
+	width: 500px;
+	height: 300px;
+	float: right;
+	margin-right: 120px;
+}
+
+.iguana-texto{
+	width:45%;
+	vertical-align: middle;
+    white-space: normal;
+	text-align: left;
+	padding: 40px;
+  line-height: 24px
+
+}
+
+
+.caracteristicas, h2, i {
+	background-color: #1E1A13;
+	text-align: center;
+	margin-top: 40px;
+	padding: 10px;
+	font-weight: 300
+	line-height: 0px
+
+}
+
+i {
+	font-size:1em ;
+	padding: 45px;
+
+
+}
+ h2 {
+	font-size: 3em;
+	font-weight: 300;
+}
+
+
+.iguanas img{
+
+	width: 18rem;
+	height: 11rem;
+	display: inline-block;
+	margin-right: 30px;
+}
+
+.iguanas {
+	text-align: center;
+	padding: 70px;
+	}
+
+.footer p{
+	text-align: center;
+    background-color: #1E1A13;
+padding: 42px;
+
+}
